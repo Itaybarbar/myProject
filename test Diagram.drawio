@@ -1,1 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-12-31T08:05:13.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.1.2" etag="QLHg_eRqRJSmXC7NmjX8" type="github"><diagram id="agCWinGzGlSTTqaEI_U_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-28T15:05:36.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Qrn_4GP8HhbETFieXV6c" version="16.6.4" type="github">
+  <diagram id="agCWinGzGlSTTqaEI_U_" name="Page-1">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YBJRUDyE-c3mZsby5Jbl-1" value="Application" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="379" y="230" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YBJRUDyE-c3mZsby5Jbl-2" value="Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="379" y="280" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YBJRUDyE-c3mZsby5Jbl-3" value="login / Sign in" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.75" y="-30" width="80" relative="1" as="geometry">
+            <mxPoint x="70" y="134.5" as="sourcePoint" />
+            <mxPoint x="150" y="134.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YBJRUDyE-c3mZsby5Jbl-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="YBJRUDyE-c3mZsby5Jbl-8" target="YBJRUDyE-c3mZsby5Jbl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBJRUDyE-c3mZsby5Jbl-8" value="Login attempt" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;shadow=0;glass=0;labelBackgroundColor=#FFFF99;sketch=0;strokeWidth=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YBJRUDyE-c3mZsby5Jbl-9" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#cdeb8b;dashed=0;shadow=0;glass=0;labelBackgroundColor=#FFFF99;sketch=0;strokeWidth=1;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YBJRUDyE-c3mZsby5Jbl-16" value="" style="endArrow=open;startArrow=open;endFill=0;startFill=0;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="413" y="250" as="sourcePoint" />
+            <mxPoint x="413" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
