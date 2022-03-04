@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T13:26:27.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="gPc_gH016EnQz6rwsfXY" version="16.6.4" type="github" pages="2">
-  <diagram id="agCWinGzGlSTTqaEI_U_" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-03-04T14:17:52.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Vye5FWy1vfwVNA8WBXv1" version="16.6.4" type="github" pages="2">
+  <diagram id="agCWinGzGlSTTqaEI_U_" name="Login Activity">
     <mxGraphModel dx="731" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -16,21 +16,13 @@
             <mxPoint x="-3" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rRKxxASArPlZ21Gh-74D-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=oval;startFill=1;endArrow=openThin;endFill=0;sourcePerimeterSpacing=16;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YBJRUDyE-c3mZsby5Jbl-8" target="rRKxxASArPlZ21Gh-74D-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YBJRUDyE-c3mZsby5Jbl-8" value="Login" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;shadow=0;glass=0;labelBackgroundColor=#FFFF99;sketch=0;strokeWidth=1;fillColor=#FFFF99;" parent="1" vertex="1">
           <mxGeometry x="280" y="200" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5nbQyXA_cgi32hvIVuK6-3" value="Service Purchase" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="570" y="30" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5nbQyXA_cgi32hvIVuK6-6" value="Support Request" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="150" y="490" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5nbQyXA_cgi32hvIVuK6-7" value="user&amp;nbsp;" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.75" y="-30" width="80" relative="1" as="geometry">
-            <mxPoint x="70" y="504.5" as="sourcePoint" />
-            <mxPoint x="150" y="504.5" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="5nbQyXA_cgi32hvIVuK6-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=openThin;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5nbQyXA_cgi32hvIVuK6-16" target="5nbQyXA_cgi32hvIVuK6-26">
           <mxGeometry relative="1" as="geometry">
@@ -136,14 +128,56 @@
         <mxCell id="5nbQyXA_cgi32hvIVuK6-45" value="no + attempts &amp;lt; 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="198" y="360" width="110" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="rRKxxASArPlZ21Gh-74D-2" value="" style="ellipse;html=1;shape=endState;fillColor=#0A0000;strokeColor=#36393d;gradientDirection=north;gradientColor=none;perimeterSpacing=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="200" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="oVGroYHMx8FOonDeEt7O" name="Page-2">
+  <diagram id="oVGroYHMx8FOonDeEt7O" name="Support Activity">
     <mxGraphModel dx="731" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="60KQQuO6OOVst8Elzlym-0" />
         <mxCell id="60KQQuO6OOVst8Elzlym-1" parent="60KQQuO6OOVst8Elzlym-0" />
+        <mxCell id="ksI7-zvafRKxGlA22BQW-0" value="" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=10;endArrow=open;startSize=6;endSize=8;rounded=0;strokeWidth=2;" edge="1" parent="60KQQuO6OOVst8Elzlym-1">
+          <mxGeometry x="-0.75" y="-30" width="80" relative="1" as="geometry">
+            <mxPoint x="70" y="80.46000000000001" as="sourcePoint" />
+            <mxPoint x="180" y="80.00166666666664" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksI7-zvafRKxGlA22BQW-1" value="routine check" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ksI7-zvafRKxGlA22BQW-0">
+          <mxGeometry x="-0.7913" y="-4" relative="1" as="geometry">
+            <mxPoint x="-3" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksI7-zvafRKxGlA22BQW-2" value="" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=10;endArrow=open;startSize=6;endSize=8;rounded=0;strokeWidth=2;" edge="1" parent="60KQQuO6OOVst8Elzlym-1">
+          <mxGeometry x="-0.75" y="-30" width="80" relative="1" as="geometry">
+            <mxPoint x="70" y="320.46" as="sourcePoint" />
+            <mxPoint x="180" y="320.0016666666666" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksI7-zvafRKxGlA22BQW-3" value="problem found" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ksI7-zvafRKxGlA22BQW-2">
+          <mxGeometry x="-0.7913" y="-4" relative="1" as="geometry">
+            <mxPoint x="-3" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZE5BS2t2lcBEuJwL-70q-0" value="" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=10;endArrow=open;startSize=6;endSize=8;rounded=0;strokeWidth=2;" edge="1" parent="60KQQuO6OOVst8Elzlym-1">
+          <mxGeometry x="-0.75" y="-30" width="80" relative="1" as="geometry">
+            <mxPoint x="600" y="320.46000000000004" as="sourcePoint" />
+            <mxPoint x="480" y="320" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZE5BS2t2lcBEuJwL-70q-1" value="user complaint" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZE5BS2t2lcBEuJwL-70q-0">
+          <mxGeometry x="-0.7913" y="-4" relative="1" as="geometry">
+            <mxPoint x="-3" y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZE5BS2t2lcBEuJwL-70q-3" value="«database»&lt;br&gt;&lt;b&gt;complaint info&lt;/b&gt;" style="html=1;labelBackgroundColor=#FFFFFF;strokeColor=#0A0000;strokeWidth=1;fillColor=#FFFFFF;gradientColor=none;gradientDirection=north;" vertex="1" parent="60KQQuO6OOVst8Elzlym-1">
+          <mxGeometry x="400" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
