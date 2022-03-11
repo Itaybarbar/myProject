@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T10:11:59.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="iwY0TyRU4j-IFwxRLBRi" version="16.6.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-11T16:31:54.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="JKhVgi64GSFZ-mL-t4S1" version="16.6.6" type="github" pages="6">
   <diagram id="agCWinGzGlSTTqaEI_U_" name="Login Activity">
-    <mxGraphModel dx="731" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,7 +135,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oVGroYHMx8FOonDeEt7O" name="Support Activity">
-    <mxGraphModel dx="731" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="60KQQuO6OOVst8Elzlym-0" />
         <mxCell id="60KQQuO6OOVst8Elzlym-1" parent="60KQQuO6OOVst8Elzlym-0" />
@@ -264,8 +264,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="511" y="194.8" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="425" y="219.8" />
-              <mxPoint x="511" y="219.8" />
+              <mxPoint x="511" y="215" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -331,7 +330,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_OkGRx4mavRS1vH1Rz6H" name="Profile Activity">
-    <mxGraphModel dx="731" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SGxv1puThmUGKkWyJ980-0" />
         <mxCell id="SGxv1puThmUGKkWyJ980-1" parent="SGxv1puThmUGKkWyJ980-0" />
@@ -470,7 +469,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aD4BEfJGTVZCdr_7_TNs" name="Project Activity">
-    <mxGraphModel dx="731" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="inrn73nLOWpFUYMvEHCn-0" />
         <mxCell id="inrn73nLOWpFUYMvEHCn-1" parent="inrn73nLOWpFUYMvEHCn-0" />
@@ -657,7 +656,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kgdhUfSgGn2__F8Ds-BH" name="Settings Activity">
-    <mxGraphModel dx="731" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tERSlPioS5orLRUKm3rG-0" />
         <mxCell id="tERSlPioS5orLRUKm3rG-1" parent="tERSlPioS5orLRUKm3rG-0" />
@@ -808,7 +807,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7GGWDYLGUFLJnZtsFFN1" name="Paid Services Activity">
-    <mxGraphModel dx="731" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lsmUNPU8DKUvpkLHeNwn-0" />
         <mxCell id="lsmUNPU8DKUvpkLHeNwn-1" parent="lsmUNPU8DKUvpkLHeNwn-0" />
