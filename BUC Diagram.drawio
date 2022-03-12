@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T11:46:00.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="mcVbgeEgWxUr0xz0_EIo" version="16.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-12T13:10:35.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="memtlyJJ2WJU_Qh3T0e1" version="16.6.6" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="860" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
           <mxGeometry x="290" y="270" width="430" height="230" as="geometry" />
         </mxCell>
         <mxCell id="JASSXe1AHS-eCIEfTXSZ-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="NSP9pWLNGv2pq2mJIbY6-1">
-          <mxGeometry x="530" y="10" width="173.75" height="220" as="geometry" />
+          <mxGeometry x="529" y="30" width="191" height="220" as="geometry" />
         </mxCell>
         <mxCell id="JASSXe1AHS-eCIEfTXSZ-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="NSP9pWLNGv2pq2mJIbY6-1">
           <mxGeometry x="16.25" y="10" width="263.75" height="300" as="geometry" />
@@ -109,7 +109,7 @@
           <mxGeometry x="117.5" y="100" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JASSXe1AHS-eCIEfTXSZ-1" value="&amp;lt;&amp;lt;structured&amp;gt;&amp;gt;&lt;br&gt;user music&amp;nbsp;&lt;br&gt;colaboration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NSP9pWLNGv2pq2mJIbY6-1">
-          <mxGeometry x="107.5" y="15" width="100" height="50" as="geometry" />
+          <mxGeometry x="98.13" y="20" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JASSXe1AHS-eCIEfTXSZ-2" value="create/ join&lt;br&gt;music project" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;shadow=0;glass=0;labelBackgroundColor=#FFFF99;sketch=0;strokeWidth=1;fillColor=#FFFF99;" vertex="1" parent="NSP9pWLNGv2pq2mJIbY6-1">
           <mxGeometry x="107.5" y="260" width="100" height="30" as="geometry" />
@@ -127,16 +127,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JASSXe1AHS-eCIEfTXSZ-6" value="&amp;lt;&amp;lt;structured&amp;gt;&amp;gt;&lt;br&gt;paid courses &amp;amp; production &lt;br&gt;management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NSP9pWLNGv2pq2mJIbY6-1">
-          <mxGeometry x="542.5" y="15" width="150" height="50" as="geometry" />
+          <mxGeometry x="549.5" y="40" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JASSXe1AHS-eCIEfTXSZ-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="NSP9pWLNGv2pq2mJIbY6-1" source="JASSXe1AHS-eCIEfTXSZ-7" target="JASSXe1AHS-eCIEfTXSZ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JASSXe1AHS-eCIEfTXSZ-7" value="create listing" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;shadow=0;glass=0;labelBackgroundColor=#FFFF99;sketch=0;strokeWidth=1;fillColor=#FFFF99;" vertex="1" parent="NSP9pWLNGv2pq2mJIbY6-1">
-          <mxGeometry x="577.5" y="97.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="549" y="100" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JASSXe1AHS-eCIEfTXSZ-8" value="provide service" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;shadow=0;glass=0;labelBackgroundColor=#FFFF99;sketch=0;strokeWidth=1;fillColor=#FFFF99;" vertex="1" parent="NSP9pWLNGv2pq2mJIbY6-1">
-          <mxGeometry x="572.5" y="177.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="544" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JASSXe1AHS-eCIEfTXSZ-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;dashed=1;" edge="1" parent="NSP9pWLNGv2pq2mJIbY6-1" source="JASSXe1AHS-eCIEfTXSZ-10" target="JASSXe1AHS-eCIEfTXSZ-8">
           <mxGeometry relative="1" as="geometry" />
@@ -160,7 +160,7 @@
           <mxGeometry x="147.5" y="180" width="20" height="25" as="geometry" />
         </mxCell>
         <mxCell id="JASSXe1AHS-eCIEfTXSZ-16" value="&amp;lt;&amp;lt;structured&amp;gt;&amp;gt;&lt;br&gt;App Management &amp;amp; Support" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NSP9pWLNGv2pq2mJIbY6-1">
-          <mxGeometry x="430" y="280" width="170" height="30" as="geometry" />
+          <mxGeometry x="420" y="280" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JASSXe1AHS-eCIEfTXSZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NSP9pWLNGv2pq2mJIbY6-1" source="JASSXe1AHS-eCIEfTXSZ-17" target="JASSXe1AHS-eCIEfTXSZ-28">
           <mxGeometry relative="1" as="geometry">
@@ -274,6 +274,18 @@
         </mxCell>
         <mxCell id="JASSXe1AHS-eCIEfTXSZ-57" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NSP9pWLNGv2pq2mJIbY6-1">
           <mxGeometry x="360" y="453.75" width="40" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JASSXe1AHS-eCIEfTXSZ-58" value="" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=10;endArrow=open;startSize=6;endSize=8;rounded=0;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NSP9pWLNGv2pq2mJIbY6-1" target="JASSXe1AHS-eCIEfTXSZ-7">
+          <mxGeometry x="-0.75" y="-30" width="80" relative="1" as="geometry">
+            <mxPoint x="705" y="115" as="sourcePoint" />
+            <mxPoint x="629" y="115" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JASSXe1AHS-eCIEfTXSZ-59" value="proffessional&lt;br&gt;user" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="JASSXe1AHS-eCIEfTXSZ-58">
+          <mxGeometry x="-0.7913" y="-4" relative="1" as="geometry">
+            <mxPoint x="-10" y="26" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
