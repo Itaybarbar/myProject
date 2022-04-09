@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T14:53:38.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="fbiuy0b5Ki55A7Mqbm9M" version="17.4.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-09T17:08:31.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="yP5g5lzyacutVIEKdLqL" version="17.4.1" type="github" pages="6">
   <diagram id="uMxjbzuf3qL6tls2jOyg" name="SAD Deployment Diagram">
     <mxGraphModel dx="731" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1039,11 +1039,11 @@
         <mxCell id="xV58erAAasSjRS3DMDw--114" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="377.75" y="556" width="28.5" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="xV58erAAasSjRS3DMDw--121" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Session Server SW&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="20" width="167" height="30" as="geometry" />
+        <mxCell id="xV58erAAasSjRS3DMDw--121" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Session Server SW&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="25" y="70" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xV58erAAasSjRS3DMDw--122" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;DB Management SW&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="20" y="480" width="167" height="30" as="geometry" />
+        <mxCell id="xV58erAAasSjRS3DMDw--122" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;DB Management SW&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="20" y="560" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xV58erAAasSjRS3DMDw--123" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="385" y="60" width="29" height="29" as="geometry" />
@@ -1488,6 +1488,9 @@
         <mxCell id="OLyz7dk7R8BT_S0hsAuu-0" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Session&lt;br&gt;&amp;nbsp;Server SW&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="xT0UUY7iyeZrkmkIpZgQ-1">
           <mxGeometry x="372" y="180" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="J7n612NFEMxOSUJchzle-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Session Web App&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="xT0UUY7iyeZrkmkIpZgQ-1">
+          <mxGeometry x="224" y="510" width="126" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1640,6 +1643,9 @@
         </mxCell>
         <mxCell id="QqDCgyyYW5rQb7EOh_q_-1" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Session&lt;br&gt;&amp;nbsp;Web App&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rotation=0;" vertex="1" parent="eQ86FdEAjc09bFajRRtN-1">
           <mxGeometry x="387" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7CxIpGyxLSqdZ5B5Xr0Z-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Session Admin App&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="eQ86FdEAjc09bFajRRtN-1">
+          <mxGeometry x="160" y="442.5" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
