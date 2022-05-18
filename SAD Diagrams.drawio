@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T17:08:31.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="yP5g5lzyacutVIEKdLqL" version="17.4.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-18T13:32:41.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="yBg5C7Kq6ItWUp9WXy4Z" version="18.0.7" type="github" pages="7">
   <diagram id="uMxjbzuf3qL6tls2jOyg" name="SAD Deployment Diagram">
-    <mxGraphModel dx="731" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1646,6 +1646,32 @@
         </mxCell>
         <mxCell id="7CxIpGyxLSqdZ5B5Xr0Z-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Session Admin App&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="eQ86FdEAjc09bFajRRtN-1">
           <mxGeometry x="160" y="442.5" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sMfY_uqR_wL9DRizT7TS" name="Page-7">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DHuQjxd-fzeBZlGhhiIy-1" value="User" style="swimlane;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="130" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DHuQjxd-fzeBZlGhhiIy-2" value="uid&lt;br&gt;email&lt;br&gt;firstName&lt;br&gt;LastName&lt;br&gt;photo&lt;br&gt;createdProjects&lt;br&gt;asistedProjects&lt;br&gt;calenderEvents&lt;br&gt;servicesProvided&lt;br&gt;servicesPurchased" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="DHuQjxd-fzeBZlGhhiIy-1">
+          <mxGeometry x="10" y="25" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DHuQjxd-fzeBZlGhhiIy-8" value="service" style="swimlane;fillColor=#cce5ff;strokeColor=#36393d;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="130" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DHuQjxd-fzeBZlGhhiIy-9" value="sid&lt;br&gt;uid&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="DHuQjxd-fzeBZlGhhiIy-8">
+          <mxGeometry x="14" y="25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DHuQjxd-fzeBZlGhhiIy-12" value="project" style="swimlane;fillColor=#cce5ff;strokeColor=#36393d;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="130" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DHuQjxd-fzeBZlGhhiIy-13" value="sid&lt;br&gt;uid&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="DHuQjxd-fzeBZlGhhiIy-12">
+          <mxGeometry x="14" y="25" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
