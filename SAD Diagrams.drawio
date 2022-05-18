@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T13:32:41.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="yBg5C7Kq6ItWUp9WXy4Z" version="18.0.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-18T16:27:41.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="0fpCbBNQgm2MpTCVqVEs" version="18.0.7" type="github" pages="7">
   <diagram id="uMxjbzuf3qL6tls2jOyg" name="SAD Deployment Diagram">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1658,7 +1658,7 @@
         <mxCell id="DHuQjxd-fzeBZlGhhiIy-1" value="User" style="swimlane;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="130" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="DHuQjxd-fzeBZlGhhiIy-2" value="uid&lt;br&gt;email&lt;br&gt;firstName&lt;br&gt;LastName&lt;br&gt;photo&lt;br&gt;createdProjects&lt;br&gt;asistedProjects&lt;br&gt;calenderEvents&lt;br&gt;servicesProvided&lt;br&gt;servicesPurchased" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="DHuQjxd-fzeBZlGhhiIy-1">
+        <mxCell id="DHuQjxd-fzeBZlGhhiIy-2" value="uid&lt;br&gt;email&lt;br&gt;firstName&lt;br&gt;LastName&lt;br&gt;photo&lt;br&gt;createdProjects&lt;br&gt;asistedProjects&lt;br&gt;calendarEvents&lt;br&gt;servicesProvided&lt;br&gt;servicesPurchased" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="DHuQjxd-fzeBZlGhhiIy-1">
           <mxGeometry x="10" y="25" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="DHuQjxd-fzeBZlGhhiIy-8" value="service" style="swimlane;fillColor=#cce5ff;strokeColor=#36393d;startSize=23;" vertex="1" parent="1">
@@ -1670,8 +1670,14 @@
         <mxCell id="DHuQjxd-fzeBZlGhhiIy-12" value="project" style="swimlane;fillColor=#cce5ff;strokeColor=#36393d;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="130" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="DHuQjxd-fzeBZlGhhiIy-13" value="sid&lt;br&gt;uid&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="DHuQjxd-fzeBZlGhhiIy-12">
-          <mxGeometry x="14" y="25" width="30" height="30" as="geometry" />
+        <mxCell id="DHuQjxd-fzeBZlGhhiIy-13" value="pid&lt;br&gt;head&lt;br&gt;contibuters&lt;br&gt;calender&lt;br&gt;tracks&lt;br&gt;info&lt;br&gt;lyrics&lt;br&gt;bpm&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="DHuQjxd-fzeBZlGhhiIy-12">
+          <mxGeometry x="10" y="25" width="70" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DHuQjxd-fzeBZlGhhiIy-14" value="chat" style="swimlane;fillColor=#cce5ff;strokeColor=#36393d;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="130" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DHuQjxd-fzeBZlGhhiIy-15" value="cid&lt;br&gt;uids&lt;br&gt;content" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="DHuQjxd-fzeBZlGhhiIy-14">
+          <mxGeometry x="14" y="30" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
